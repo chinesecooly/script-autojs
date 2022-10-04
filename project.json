@@ -1,0 +1,55 @@
+{
+    "assets": [
+      
+    ],
+    "build": {
+      "build_number": 0,
+      "build_time": 0,
+      "release": false
+    },
+    "encryptLevel": 0,
+    "useFeatures": [
+      
+    ],
+    "icon": "res/logo.png",
+    "launchConfig": {
+      "displaySplash": true,
+      "hideLogs": false,
+      "splashText": "Powered by Auto.js Pro",
+      "stableMode": false
+    },
+    "main": "main.js",
+    "name": "UI框架",
+    "optimization": {
+      "removeAccessibilityService": false,
+      "removeOpenCv": false,
+      "unusedResources": false
+    },
+    "packageName": "com.ui.kj",
+    "permissionConfig": {
+      "requestListOnStartup": [
+        "android.permission.WRITE_EXTERNAL_STORAGE"
+      ]
+    },
+    "publish": {
+      "category": "实用工具",
+      "details": "一个简简单单UI",
+      "maxAutoJsVersion": -1,
+      "maxProVersion": 8189999,
+      "minAutoJsVersion": -1,
+      "minProVersion": 8180000,
+      "minSdkVersion": 2,
+      "permissions": [
+        
+      ],
+      "summary": "生活原本沉闷，跟你一起奔跑就会有风。",
+      "tags": [
+        
+      ]
+    },
+    "scripts": {
+      
+    },
+    "versionCode": 1,
+    "versionName": "1.0.0"
+  }
